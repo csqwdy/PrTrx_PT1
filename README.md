@@ -1,3 +1,5 @@
+<img src=assets/1.jpg alt="PrTrx PT正面" width="550">
+<img src=assets/2.jpg alt="PrTrx PT正面" width="550">
 PrTrx PT1 便携式QRP SDR短波电台 开源项目说明
  
 一、项目简介
