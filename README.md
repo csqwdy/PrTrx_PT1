@@ -1,9 +1,10 @@
 <img src=assets/1.jpg alt="PrTrx PT正面" width="550">
 <img src=assets/2.jpg alt="PrTrx PT正面" width="550">
+
 PrTrx PT1 便携式QRP SDR短波电台 开源项目说明
  
 一、项目简介
-1. PrTrx PT1 是一款紧凑型便携式 QRP SDR 架构业余无线电收发电台。本项目为硬件完全开源、软件闭源授权 的准商业开源项目。部分硬件与软件设计参考源自 VK7IAN 开源项目 MBPTRX，且已获得 VK7IAN 正式授权，允许基于 MBPTRX 架构进行二次开发，并允许将部分衍生软件源码进行闭源商用化落地使用。
+1. PrTrx PT1 是一款紧凑型便携式 QRP SDR 架构业余无线电收发电台。本项目为硬件完全开源、软件闭源授权 的准商业电台性能的开源项目。部分硬件与软件设计参考源自 VK7IAN 开源项目 MBPTRX，且已获得 VK7IAN 正式授权，允许基于 MBPTRX 架构进行二次开发，并允许将部分衍生软件源码进行闭源商用化落地使用。
 2. PrTrx PT1 基于 Raspberry Pi Pico2（RP2350）主控的QSD正交采样检波 + QSE正交调制发射 SDR架构。频率覆盖3.5MHz - 30MHz业余无线电短波波段；具备SSB、CW、AM、FM模式；28KHz频谱和瀑布图、降噪NR、噪声消隐NB、陷波Notch滤波器；2.0寸320*240分辨率高清IPS液晶显示屏；
  架构及参数如下：
 <img src=assets/架构.png alt="PrTrx PT1架构框图" width="550">
