@@ -1,5 +1,5 @@
 <img src=assets/1.jpg alt="PrTrx PT正面" width="550">
-<img src=assets/2.jpg alt="PrTrx PT正面" width="550">
+<img src=assets/2.jpg alt="PrTrx PT正面2" width="550">
 
 PrTrx PT1 便携式QRP SDR短波电台 开源项目说明
  
@@ -8,7 +8,7 @@ PrTrx PT1 便携式QRP SDR短波电台 开源项目说明
 2. PrTrx PT1 基于 Raspberry Pi Pico2（RP2350）主控的QSD正交采样检波 + QSE正交调制发射 SDR架构。频率覆盖3.5MHz - 30MHz业余无线电短波波段；具备SSB、CW、AM、FM模式；28KHz频谱和瀑布图、降噪NR、噪声消隐NB、陷波Notch滤波器；2.0寸320*240分辨率高清IPS液晶显示屏；
  架构及参数如下：
 <img src=assets/架构.png alt="PrTrx PT1架构框图" width="550">
-<img src=assets/参数.png alt="PrTrx PT1参数框图" width="550">
+<img src=assets/参数.jpeg alt="PrTrx PT1参数框图" width="550">
 
 二、开源授权规则
 
